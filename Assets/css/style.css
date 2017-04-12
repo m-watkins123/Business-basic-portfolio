@@ -1,0 +1,29 @@
+<style/>
+
+body{
+	background-color: #4aaaa5
+	font:"Georgia";
+	height: 50px;
+	width: 60px;
+	font-color:#ffffff;
+	border-color: #dddddd
+
+}
+header{
+	background-color: #4aaaa5
+	font:Times;
+	border-color:#cccccc
+	background-color:#ffffff; 
+	height: 50px
+	width:100px;
+}
+h2 h1 p{
+	font-style: sans-serif
+	height:80px; 
+	width:100px;
+	font-color: purple;
+	padding-left: 10px
+	border-color:red;
+
+
+}
